@@ -55,7 +55,7 @@ We achieved state-of-the-art performance on _COD10K_, _CAMO_, _NC4K_, _CHAMELEON
   </p>
 - Quantitative results on UniCOS-Polarization and other methods.
   <p align="center">
-  <img width="430" src="figs/tab-3.png">
+  <img width="400" src="figs/tab-3.png">
   </p>  
   </details>
 
@@ -64,7 +64,7 @@ We achieved state-of-the-art performance on _COD10K_, _CAMO_, _NC4K_, _CHAMELEON
 
 - Visual results on UniLearner
   <p align="center">
-  <img width="430" src="figs/fig-1.png">
+  <img width="400" src="figs/fig-1.png">
   </p>
 - Visual comparison on RGB and RGB-I
   <p align="center">
