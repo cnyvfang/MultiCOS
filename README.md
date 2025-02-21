@@ -2,7 +2,7 @@
 
 # <p align=center> `UniCOS` </p> 
 
-[//]: # (<b><p align=center> <a href='https://arxiv.org/pdf/2406.07966'><img src='https://img.shields.io/badge/ArXiv-2406.07966-red'></a></p></b>)
+<b><p align=center> <a href='https://arxiv.org/abs/2502.14471'><img src='https://img.shields.io/badge/ArXiv-2502.14471-red'></a></p></b>
 
 This is the official PyTorch codes for the paper. 
 >**Integrating Extra Modality Helps Segmentor Find Camouflaged Objects Well** <br> [Chengyu Fang](https://cnyvfang.github.io/), [Chunming He](https://chunminghe.github.io/), Longxiang Tang, Yuelin Zhang, Chenyang Zhu, Yuqi Shen, Chubin Chen, Guoxia Xu, Xiu Li, arXiv 2025<br>
@@ -20,7 +20,7 @@ This is the official PyTorch codes for the paper.
 
 
 ## 🔥 News
-
+- **2025-02-21:** We release a part of results, bibtex, and the preprint of full paper.
 - **2025-02-10:** We release this repository, the preprint of full paper will be release soon.
 
 
@@ -35,7 +35,62 @@ This is the official PyTorch codes for the paper.
 - [ ] Datasets
 - [ ] Training
 - [ ] Testing
-- [ ] Results
-- [ ] Citation
-- [ ] Acknowledgements
+- [x] Results
+- [x] Citation
+
+## 🔍 Results
+
+We achieved state-of-the-art performance on _COD10K_, _CAMO_, _NC4K_, _CHAMELEON_, and _PCOD1200_. More results can be found in the paper. We will release all results from different datasets when the paper is accepted.
+
+<details>
+<summary>Quantitative Comparison (click to expand)</summary>
+
+- Quantitative results on UniCOS-Infrared and other methods.
+  <p align="center">
+  <img width="900" src="figs/tab-1.png">
+  </p>
+- Quantitative results on UniCOS-Depth and other methods. 
+  <p align="center">
+  <img width="900" src="figs/tab-2.png">
+  </p>
+- Quantitative results on UniCOS-Polarization and other methods.
+  <p align="center">
+  <img width="430" src="figs/tab-3.png">
+  </p>  
+  </details>
+
+<details open> 
+<summary>Visual Comparison (click to expand)</summary>
+
+- Visual results on UniLearner
+  <p align="center">
+  <img width="430" src="figs/fig-1.png">
+  </p>
+- Visual comparison on RGB and RGB-I
+  <p align="center">
+  <img width="900" src="figs/fig-2.png">
+  </p>
+- Visual comparison on RGB-P and RGB-D
+  <p align="center">
+  <img width="900" src="figs/fig-3.png">
+  </p>
+  
+  </details>
+
+
+## 📎 Citation
+
+If you find the code helpful in your resarch or work, please cite the following paper(s).
+
+```
+@misc{fang2025integratingextramodalityhelps,
+      title={Integrating Extra Modality Helps Segmentor Find Camouflaged Objects Well}, 
+      author={Chengyu Fang and Chunming He and Longxiang Tang and Yuelin Zhang and Chenyang Zhu and Yuqi Shen and Chubin Chen and Guoxia Xu and Xiu Li},
+      year={2025},
+      eprint={2502.14471},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2502.14471}, 
+}
+```
 
