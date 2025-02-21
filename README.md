@@ -83,7 +83,7 @@ We achieved state-of-the-art performance on _COD10K_, _CAMO_, _NC4K_, _CHAMELEON
 If you find the code helpful in your resarch or work, please cite the following paper(s).
 
 ```
-@misc{fang2025integratingextramodalityhelps,
+@misc{fang2025unicos,
       title={Integrating Extra Modality Helps Segmentor Find Camouflaged Objects Well}, 
       author={Chengyu Fang and Chunming He and Longxiang Tang and Yuelin Zhang and Chenyang Zhu and Yuqi Shen and Chubin Chen and Guoxia Xu and Xiu Li},
       year={2025},
