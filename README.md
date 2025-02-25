@@ -80,7 +80,7 @@ We achieved state-of-the-art performance on _COD10K_, _CAMO_, _NC4K_, _CHAMELEON
 
 ## 📎 Citation
 
-If you find the code helpful in your resarch or work, please cite the following paper(s).
+If you find the code helpful in your research or work, please cite the following paper(s).
 
 ```
 @misc{fang2025unicos,
