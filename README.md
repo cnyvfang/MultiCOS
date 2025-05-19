@@ -1,4 +1,4 @@
-<p align=center><img src="figs/logo.png" width="200px"> </p>
+<p align=center><img src="figs/logo.png" width="250px"> </p>
 
 # <p align=center> `MultiCOS` </p> 
 
