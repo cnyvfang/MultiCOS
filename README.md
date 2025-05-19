@@ -1,6 +1,6 @@
 <p align=center><img src="figs/logo.png" width="200px"> </p>
 
-# <p align=center> `UniCOS` </p> 
+# <p align=center> `MultiCOS` </p> 
 
 <b><p align=center> <a href='https://arxiv.org/abs/2502.14471'><img src='https://img.shields.io/badge/ArXiv-2502.14471-red'></a></p></b>
 
