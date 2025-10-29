@@ -1,7 +1,5 @@
 <p align=center><img src="figs/logo.png" width="250px"> </p>
 
-# <p align=center> `MultiCOS` </p> 
-
 <b><p align=center> <a href='https://arxiv.org/abs/2502.14471'><img src='https://img.shields.io/badge/ArXiv-2502.14471-red'></a>(Out-of-date Version)</p></b>
 
 This is the official PyTorch codes for the paper. 
