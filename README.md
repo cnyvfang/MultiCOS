@@ -1,4 +1,4 @@
-<p align=center><img src="figs/logo.png" width="450px"> </p>
+<p align=center><img src="figs/logo.png" width="400px"> </p>
 
 >### MultiCOS: Unlocking the Potential of Limited Multimodal Data on Camouflaged Object Segmentation <br> <br> 
 > [Chengyu Fang](https://cnyvfang.github.io/), [Chunming He](https://chunminghe.github.io/), Yuqi Shen, Chenyang Zhu, Yuelin Zhang, Fengyang Xiao, Longxiang Tang, Chubin Chen, Xiu Li, arXiv 2025<br><br> 
